@@ -26,5 +26,11 @@ namespace Voice_Conversion.Controllers
 
             return View();
         }
+        /// <summary>
+        /// 测试git
+        /// </summary>
+        public string GetStr() {
+            return "hello word";
+        }
     }
 }
