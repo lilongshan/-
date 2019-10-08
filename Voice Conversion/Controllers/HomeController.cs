@@ -32,5 +32,10 @@ namespace Voice_Conversion.Controllers
         public string GetStr() {
             return "hello word";
         }
+
+        public string Date20191008()
+        {
+            return "update-2019-10-08";
+        }
     }
 }
