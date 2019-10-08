@@ -35,7 +35,7 @@ namespace Voice_Conversion.Controllers
 
         public string Date20191008()
         {
-            return "update-2019-10-08";
+            return "修改-2019-10-08";
         }
     }
 }
