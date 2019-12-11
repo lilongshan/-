@@ -37,5 +37,10 @@ namespace Voice_Conversion.Controllers
         {
             return "修改-2019-10-08";
         }
+
+        public string Data20191211() 
+        {
+            return "GitHub 使用 -2019-12-11";
+        }
     }
 }
